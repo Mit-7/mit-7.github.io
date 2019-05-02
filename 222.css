@@ -17,12 +17,14 @@ body {
 	float: left;
 	font-size: 20px;
 	font-weight: bold;
+	margin-left: 20px;
 }
 
 #header-nav {
 	display: block;
 	float: right;
 	margin-top: 0;
+	margin-right: 20px;
 }
  
  #header-nav li {
@@ -30,9 +32,10 @@ body {
 	padding-left: 20px;
 }
  
+ 
  .container {
 	max-width: 1000px;
-	margin: 0 auto;
+	margin: 0 auto 0 20px;
 }
 
 #header a{
